@@ -7,16 +7,16 @@ Estimate of time needed to complete: 30 mins
 
 Start time: 9:49 am
 
-Finish time: _____
+Finish time: 10:30 am 
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 mins
 
 
 ##Feature #2: Modify the contents
 
 Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 10:50 am
 
 Finish time: _____
 
