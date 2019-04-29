@@ -23,3 +23,13 @@ Break: 12:00 pm -
 Finish time: _____
 
 Actual time needed to complete: _____
+
+## Feature #3: Add functionality
+
+Estimate of time needed to complete: 1 hr 45 mins
+
+Start time: 9:10 am
+
+Finish time: 11:10 am
+
+Actual time needed to complete: 2 hours
