@@ -545,7 +545,7 @@ blockquote, q {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1620px) {
+		@media screen and (min-width: 736px) and (max-width: 1620px) {
 
 			.row {
 				display: flex;
@@ -790,7 +790,7 @@ blockquote, q {
 
 		}
 
-		@media screen and (min-width: 961px) and (max-width: 1320px) {
+		@media screen and (min-width: 738px) and (max-width: 1320px) {
 
 			.row {
 				display: flex;
@@ -1921,8 +1921,18 @@ blockquote, q {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: none;
+			}
+
+			#myVideo {
+				z-index: -100;
+				position: fixed;
+				max-width: 600px;
+				margin: 0px auto;
+				right: 0;
+				bottom: 0;
+				min-width: 100%; 
+				min-height: 100%;
 			}
 
 			#main > section.two {
@@ -1955,7 +1965,7 @@ blockquote, q {
   
   /* Narrow */
 
-	@media screen and (min-width: 961px) and (max-width: 1320px) {
+	@media screen and (min-width: 738px) and (max-width: 1320px) {
 
 		/* Basic */
 
@@ -2026,7 +2036,7 @@ blockquote, q {
 		display: none;
 	}
 
-	@media screen and (max-width: 960px) {
+	@media screen and (max-width: 738px) {
 
 		/* Basic */
 
